@@ -74,10 +74,7 @@ body {
     color: black;
 }
 
-.inner-menu-item > a:hover {
-    background: black;
-    color: white;
-}
+
 
 .search-bar {
     height: 26px;
